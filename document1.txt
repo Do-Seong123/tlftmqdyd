@@ -1,0 +1,5 @@
+a = "Hello world"
+b = "hello Python"
+
+print(a)
+print(b)
