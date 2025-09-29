@@ -1,5 +1,3 @@
-a = "Hello world"
-b = "hello Python"
+a = "Hello Python world"
 
 print(a)
-print(b)
