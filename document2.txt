@@ -1,4 +1,4 @@
-number = int(input("첫번째 수 : "))
+s = int(input("첫번째 수 : "))
 b = int(input("두번째 수 : "))
 
 print(a, "+", b, "=", a+b)
